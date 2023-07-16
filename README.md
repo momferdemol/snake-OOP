@@ -6,7 +6,7 @@
   Created: 16-07-2023
 </pre>
 
-# quiz-OOP
+# snake-OOP
 
 Run program
 ```sh
